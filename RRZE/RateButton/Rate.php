@@ -19,7 +19,7 @@ class Rate
         $nonce_token = isset($_POST['nonce']) ? $_POST['nonce'] : '';
 
         if (! wp_verify_nonce($nonce_token, 'rrze-rate-btn' . $post_ID)) {
-            wp_send_json_error(__('Error: Can not verify nonce!', 'rrze-ratebutton'));
+            wp_send_json_error(__('Error: Nonce verification has failed!', 'rrze-ratebutton'));
         }
 
         if (empty($post_ID)) {
