@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RRZE Rate Button\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-18 14:59+0000\n"
-"PO-Revision-Date: 2019-01-18 15:03+0000\n"
+"POT-Creation-Date: 2019-01-24 09:33+0000\n"
+"PO-Revision-Date: 2019-01-24 09:34+0000\n"
 "Last-Translator: RRZE Webteam <webmaster@fau.de>\n"
 "Language-Team: Deutsch\n"
 "Language: de_DE\n"
@@ -13,36 +13,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.2.0; wp-5.0.3"
-
-#: RRZE/RateButton/Rate.php:24
-msgid "Error: Can not verify nonce!"
-msgstr "Fehler: Kann Nonce nicht überprüfen!"
-
-#: RRZE/RateButton/Rate.php:28
-msgid "Error: The variable post_ID is empty!"
-msgstr "Fehler: Die Variable post_ID ist leer!"
-
-#. Author URI of the plugin
-msgid "https://blogs.fau.de/webworking/"
-msgstr ""
-
-#. URI of the plugin
-msgid "https://github.com/RRZE-Webteam/rrze-ratebutton"
-msgstr ""
-
-#. Name of the plugin
-msgid "RRZE Rate Button"
-msgstr ""
-
-#. Author of the plugin
-msgid "RRZE-Webteam"
-msgstr ""
-
-#. Description of the plugin
-msgid ""
-"Schaltung eines Buttons um einen Artikel oder eine Seite zu werten. "
-"Datenschutzkonform und ohne Performanceprobleme."
-msgstr ""
 
 #: rrze-ratebutton.php:76
 #, php-format
@@ -61,3 +31,33 @@ msgid ""
 msgstr ""
 "Ihre Wordpress-Version %s ist veraltet. Bitte aktualisieren Sie mindestens "
 "auf die Wordpress-Version %s."
+
+#: RRZE/RateButton/Rate.php:22
+msgid "Error: Nonce verification has failed!"
+msgstr "Fehler: Die Nonce-Verifizierung ist fehlgeschlagen!"
+
+#: RRZE/RateButton/Rate.php:26
+msgid "Error: The variable post_ID is empty!"
+msgstr "Fehler: Die Variable post_ID ist leer!"
+
+#. Name of the plugin
+msgid "RRZE Rate Button"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Schaltung eines Buttons um einen Artikel oder eine Seite zu werten. "
+"Datenschutzkonform und ohne Performanceprobleme."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/RRZE-Webteam/rrze-ratebutton"
+msgstr ""
+
+#. Author of the plugin
+msgid "RRZE-Webteam"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://blogs.fau.de/webworking/"
+msgstr ""
