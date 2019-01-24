@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RRZE Rate Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-24 09:33+0000\n"
+"PO-Revision-Date: 2019-01-24 09:34+0000\n"
+"Last-Translator: RRZE Webteam <webmaster@fau.de>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: rrze-ratebutton.php:76
+#, php-format
+msgid ""
+"Your server is running PHP version %s. Please upgrade at least to PHP "
+"version %s."
+msgstr ""
+"Ihre PHP-Version %s ist veraltet. Bitte aktualisieren Sie mindestens auf die "
+"PHP-Version %s."
+
+#: rrze-ratebutton.php:80
+#, php-format
+msgid ""
+"Your Wordpress version is %s. Please upgrade at least to Wordpress version "
+"%s."
+msgstr ""
+"Ihre Wordpress-Version %s ist veraltet. Bitte aktualisieren Sie mindestens "
+"auf die Wordpress-Version %s."
+
+#: RRZE/RateButton/Rate.php:22
+msgid "Error: Nonce verification has failed!"
+msgstr "Fehler: Die Nonce-Verifizierung ist fehlgeschlagen!"
+
+#: RRZE/RateButton/Rate.php:26
+msgid "Error: The variable post_ID is empty!"
+msgstr "Fehler: Die Variable post_ID ist leer!"
+
+#. Name of the plugin
+msgid "RRZE Rate Button"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Schaltung eines Buttons um einen Artikel oder eine Seite zu werten. "
+"Datenschutzkonform und ohne Performanceprobleme."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/RRZE-Webteam/rrze-ratebutton"
+msgstr ""
+
+#. Author of the plugin
+msgid "RRZE-Webteam"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://blogs.fau.de/webworking/"
+msgstr ""
