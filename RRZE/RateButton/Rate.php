@@ -76,7 +76,7 @@ class Rate
         } elseif ($type == 'process') {
             if (! isset($_COOKIE[$cookie_name . $id])) {
                 ++$count;
-                setcookie($cookie_name . $id, time(), 3153600000, '/');
+                setcookie($cookie_name . $id, time(), YEAR_IN_SECONDS, '/');
             }
 
             $output = $this->number_format($this->update_meta_data($id, $meta_key, $count));
