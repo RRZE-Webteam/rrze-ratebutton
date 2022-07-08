@@ -19,8 +19,8 @@ use RRZE\RateButton\Main;
 
 defined('ABSPATH') || exit;
 
-const RRZE_PHP_VERSION = '7.1';
-const RRZE_WP_VERSION = '5.0';
+const RRZE_PHP_VERSION = '7.4';
+const RRZE_WP_VERSION = '6.0';
 
 register_activation_hook(__FILE__, 'RRZE\RateButton\activation');
 register_deactivation_hook(__FILE__, 'RRZE\RateButton\deactivation');
