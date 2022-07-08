@@ -4,7 +4,7 @@
  * Plugin Name:     RRZE Rate Button
  * Plugin URI:      https://github.com/RRZE-Webteam/rrze-ratebutton
  * Description:     Schaltung eines Buttons um einen Artikel oder eine Seite zu werten. Datenschutzkonform und ohne Performanceprobleme.
- * Version:         1.0.0
+ * Version:         1.0.1
  * Author:          RRZE-Webteam
  * Author URI:      https://blogs.fau.de/webworking/
  * License:         GNU General Public License v2
